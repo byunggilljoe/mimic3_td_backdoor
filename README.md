@@ -6,6 +6,14 @@ This is a repository for a AAAI 2020 TAIH workshop paper "Machine Learning with 
 # Base code
 Our code is implemented based on https://github.com/YerevaNN/mimic3-benchmarks that was originally for multi-task models with EHRs.
 
+# Dependency
+- pytorch-gpu 1.5.1
+- torchvision 0.6.0a0+35d732a
+- tensorflow 2.1.0
+- keras 2.3.1
+- numpy 1.19.2
+- scikit-learn 1.5.1
+
 # Data aquisition
 MIMIC-III data can be aquired after submitting a certificate.
 Please refer [__Requirement__](https://github.com/YerevaNN/mimic3-benchmarks#Requirements) section and following data processing instructions 
